@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pandadoc/php-client": "^5.2"
+    }
+}
